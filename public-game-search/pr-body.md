@@ -10,10 +10,9 @@ The setting defaults to off. Contributor credit: `1955001309` (mattstellar). Eng
 
 ### Validation
 
-- API credential isolation and URL-change regression checks passed.
-- Chromium integration checks passed for mode switching, filtering, pagination/retry, cancellation, sanitization, thumbnails, cleanup, navigation, keyboard focus, and mobile layout. The new keyboard regressions fail the old implementation.
-- Final live signed-out check returned 40 games and 40 correct thumbnails; switching off restored native results. No feature JavaScript errors, text overlaps, or horizontal overflow at 1440px and 390px.
-- Chrome/Firefox builds passed. Targeted ESLint had zero errors and six existing API warnings. Feature/test formatting checks passed; existing shared-file formatting differences were confirmed against the base. Firefox extension lint had zero errors/notices and 280 existing bundled warnings.
+- Before removal, local API credential-isolation, URL-change, and Chromium checks passed for mode switching, filtering, pagination/retry, cancellation, sanitization, thumbnails, cleanup, navigation, keyboard focus, and mobile layout. The three test files have been removed from this PR following review feedback.
+- The previous live signed-out check returned 40 games and 40 correct thumbnails; switching off restored native results. No feature JavaScript errors, text overlaps, or horizontal overflow at 1440px and 390px.
+- Chrome/Firefox builds passed after removing the test files. Targeted ESLint had zero errors and six existing API warnings. Firefox extension lint had zero errors/notices and 280 existing bundled warnings.
 
 ### Screenshots
 
@@ -36,12 +35,7 @@ Captured using the actual feature and shared components injected into an isolate
 ```sh
 npm ci
 npm run build
-node scripts/tests/api-credentials.test.cjs
-node scripts/tests/url-changes.test.cjs
-npm install --no-save --package-lock=false playwright
-npx playwright install chromium
-node scripts/tests/public-game-discovery.test.cjs
 npm run lint:firefox
 ```
 
-Playwright is an optional local verification tool, not an extension dependency.
+(not sure if this works,bare with me here)
