@@ -1,0 +1,117 @@
+{
+  "observedAtUtc": "2026-10-11T18:08:23.341523+00:00",
+  "game": {
+    "universeId": 9580569620,
+    "rootPlaceId": 73262042203427,
+    "title": "Everest Expedition"
+  },
+  "gamePage": {
+    "url": "https://www.roblox.com/pt/games/73262042203427/Expedi-o-Everest",
+    "visibleLabel": "Maturidade: Mínima • Idade 16 anos ou mais"
+  },
+  "anonymousQueries": [
+    {
+      "query": "Everest Expedition",
+      "pages": [
+        {
+          "page": 1,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 2,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 3,
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
+    },
+    {
+      "query": "Expedição Everest",
+      "pages": [
+        {
+          "page": 1,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 2,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 3,
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
+    },
+    {
+      "query": "Everest",
+      "pages": [
+        {
+          "page": 1,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 2,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 3,
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
+    },
+    {
+      "query": "73262042203427",
+      "pages": [
+        {
+          "page": 1,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 2,
+          "status": 200,
+          "count": 40,
+          "exactHits": [],
+          "hasNextToken": true
+        },
+        {
+          "page": 3,
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
+    }
+  ],
+  "liveSearch": {
+    "nativeResultCount": 40,
+    "publicModeResultCount": 40,
+    "exactGameFound": false
+  },
+  "limits": [
+    "Bounded search; deeper pagination stopped at HTTP 429.",
+    "No authenticated age-checked 16+ versus Kids/Select comparison.",
+    "Does not prove global exclusion or its cause.",
+    "Creator publishing status and subscription status unverified."
+  ]
+}
