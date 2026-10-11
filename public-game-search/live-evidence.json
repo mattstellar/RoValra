@@ -1,0 +1,581 @@
+{
+  "capturedAt": "2026-10-11T18:34:23.418Z",
+  "disclosure": "Actual feature, shared UI, observer, and thumbnail helper injected into an isolated signed-out browser. Settings and locale boundaries are supplied; API requests use direct live fetch. This is not an authenticated Kids/Select extension test.",
+  "url": "https://www.roblox.com/discover/?keyword=cart%20ride",
+  "off": {
+    "nativeVisible": true,
+    "publicVisible": false
+  },
+  "desktop": {
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "documentWidth": 1425,
+    "grid": {
+      "x": 23,
+      "y": 184,
+      "width": 1379,
+      "height": 2033.875,
+      "top": 184,
+      "bottom": 2217.875
+    },
+    "cards": 40,
+    "images": [
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-c8a20ba76baaae94a81b62a5d140fd7f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 268
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ed6e5b48bbe1b20174997f6abc82e21f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-46fc705f9f12029b3795602d9cbc0f97/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-3c04a641de8012936b961c86a385b864/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-b7385bba552bbe559f7e2e8f870200a6/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-d7e58e1f5d9f07149d161b22f0fe69cf/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-0bab13648ab4fae6cafcc5cc0072ddb4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-b3d6e7db1b40cd0db5b6dba816da002f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 231
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-49298634a38e33e52c852f80c354de83/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-af0639a9944280e0710c94c1fa3be487/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ebd273646d9301fd8a9a2c44d8d1396f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 478,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-a316ce0c22b0720ecf28678f9e020ce3/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 479,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-51723c5fc3c2dfec26f2f7bb7d966812/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-95d15d5330e671b95278d51ae350cf39/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-7877099072c90713b2592293b7cb6efd/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-17f41193c21f9f53d374358db288953d/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-8d9dfbb450f7ceda02bc16c205409b6b/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-7d4fc8dadf0a7be8f762a760c20db28c/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-188e3ba16c26466effe3af370e7a08eb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-876c5fa6b7318c828ed78a226a0ba43b/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-7c05bdebc0c0b1addf565942870bcda4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-966c2eede281dd293b930dec1e0c6946/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-af24884c363a4b5532370b630c94b9cd/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-291d58332ef19004454eb299b073b5cb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-f52ef43b2e6159a44a41d183f060ad1f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ad2df64c651428c6e171147630630d13/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-3dbad9eb2950b69bc07d9d6a61eee739/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-cd0f09d45297cf77669360498bd2fddf/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-1afdd54d5d7c69c3f4355388e22607a7/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-46348a1aab9833b6e3cc02388d12e08e/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-c3ec25fce48261bc3ab7a0b9e3955dfb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 268
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-737a9afe5791faa39a8e80e092d3ed9f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-830acbb7dcbc81a21684825306589a40/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-c7f9d9fddccc04cedbb3af69d2dacc36/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-35184993f694496fda3ec021d2f234e4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ecada935b975aeb790dc7d5ec9d5bceb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-5b5b3fb0e846a23651cfc4668865d486/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-53dce1c442ac9fe7a072653335469a0e/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-dc316725fec960150cc037ea4c33148a/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-08519fe6d32aa9d80bf02478d7e8bfb4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      }
+    ],
+    "overlap": [],
+    "first": "[🎃] Create a Cart Ride!\n85%\n2.4K\nMaturity: Minimal",
+    "toggle": "true",
+    "dialogs": 0,
+    "inputs": 0
+  },
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "documentWidth": 375,
+    "grid": {
+      "x": 9,
+      "y": 266,
+      "width": 357,
+      "height": 3994.75,
+      "top": 266,
+      "bottom": 4260.75
+    },
+    "cards": 40,
+    "images": [
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-c8a20ba76baaae94a81b62a5d140fd7f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 268
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ed6e5b48bbe1b20174997f6abc82e21f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-46fc705f9f12029b3795602d9cbc0f97/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-3c04a641de8012936b961c86a385b864/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-b7385bba552bbe559f7e2e8f870200a6/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-d7e58e1f5d9f07149d161b22f0fe69cf/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-0bab13648ab4fae6cafcc5cc0072ddb4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-b3d6e7db1b40cd0db5b6dba816da002f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 231
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-49298634a38e33e52c852f80c354de83/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-af0639a9944280e0710c94c1fa3be487/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ebd273646d9301fd8a9a2c44d8d1396f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 478,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-a316ce0c22b0720ecf28678f9e020ce3/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 479,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-51723c5fc3c2dfec26f2f7bb7d966812/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-95d15d5330e671b95278d51ae350cf39/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-7877099072c90713b2592293b7cb6efd/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-17f41193c21f9f53d374358db288953d/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-8d9dfbb450f7ceda02bc16c205409b6b/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-7d4fc8dadf0a7be8f762a760c20db28c/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-188e3ba16c26466effe3af370e7a08eb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-876c5fa6b7318c828ed78a226a0ba43b/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-7c05bdebc0c0b1addf565942870bcda4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-966c2eede281dd293b930dec1e0c6946/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-af24884c363a4b5532370b630c94b9cd/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-291d58332ef19004454eb299b073b5cb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-f52ef43b2e6159a44a41d183f060ad1f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ad2df64c651428c6e171147630630d13/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-3dbad9eb2950b69bc07d9d6a61eee739/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-cd0f09d45297cf77669360498bd2fddf/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-1afdd54d5d7c69c3f4355388e22607a7/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-46348a1aab9833b6e3cc02388d12e08e/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-c3ec25fce48261bc3ab7a0b9e3955dfb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 268
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-737a9afe5791faa39a8e80e092d3ed9f/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-830acbb7dcbc81a21684825306589a40/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-c7f9d9fddccc04cedbb3af69d2dacc36/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-35184993f694496fda3ec021d2f234e4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-ecada935b975aeb790dc7d5ec9d5bceb/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-5b5b3fb0e846a23651cfc4668865d486/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-53dce1c442ac9fe7a072653335469a0e/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-dc316725fec960150cc037ea4c33148a/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      },
+      {
+        "src": "https://tr.rbxcdn.com/180DAY-08519fe6d32aa9d80bf02478d7e8bfb4/480/270/Image/Webp/noFilter",
+        "complete": true,
+        "naturalWidth": 480,
+        "naturalHeight": 270
+      }
+    ],
+    "overlap": [],
+    "first": "[🎃] Create a Cart Ride!\n85%\n2.4K\nMaturity: Minimal",
+    "toggle": "true",
+    "dialogs": 0,
+    "inputs": 0
+  },
+  "restored": {
+    "nativeVisible": true,
+    "publicVisible": false
+  },
+  "errors": [],
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 401 ()",
+    "WebSocket connection to 'wss://realtime.roblox.com/' failed: Error during WebSocket handshake: Unexpected response code: 404",
+    "[2026-10-11T18:34:17.666Z] Error: Failed to start the connection: Error: WebSocket failed to connect. The connection could not be found on the server, either the endpoint may not be a SignalR endpoint, the connection ID is not present on the server, or there is a proxy blocking WebSockets. If you have multiple servers check that sticky sessions are enabled."
+  ],
+  "requests": [
+    {
+      "url": "https://apis.roblox.com/search-api/omni-search?sessionId=c99cf8eb-7f45-4186-ab0e-8b12a65391e5&searchQuery=cart+ride&pageType=Game&pageToken=",
+      "method": "GET",
+      "credentials": "omit",
+      "status": 200,
+      "responseSummary": {
+        "count": 40,
+        "nextPageToken": true
+      }
+    },
+    {
+      "url": "https://thumbnails.roblox.com/v1/batch",
+      "method": "POST",
+      "credentials": "include",
+      "status": 200,
+      "bodySummary": {
+        "count": 40,
+        "first": {
+          "requestId": "11727501024::GameThumbnail:480x270:webp:regular::",
+          "type": "GameThumbnail",
+          "targetId": 11727501024,
+          "token": "",
+          "format": "webp",
+          "size": "480x270",
+          "version": ""
+        }
+      },
+      "responseSummary": {
+        "count": 40,
+        "states": {
+          "Completed": 40
+        }
+      }
+    }
+  ]
+}
